@@ -5,7 +5,7 @@ IDE: Intellij
 
 To run the project, load the project file with Intellij.
 
-## Or, run the via command line
+## Or, run via command line
 1. Compile:
 ```bash
 javac -Xlint:all -d ./build ./src/*.java ./src/module/*.java
